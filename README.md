@@ -72,8 +72,6 @@ This is a Flask-based RESTful API for managing a bookstore. The application supp
   "password": "string"
 }
 ```
-**200 OK: New book created successfully.
-401 Unauthorized: Token is missing or invalid**
 
 ## API Endpoints
 
