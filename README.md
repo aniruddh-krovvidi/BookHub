@@ -33,8 +33,8 @@ It uses JWT for authentication, SQLAlchemy for database operations, and Flask-Sw
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/bookstore-project.git
-    cd bookstore-project
+    git clone https://github.com/aniruddh-krovvidi/BookHub
+    cd BookHub
     ```
 
 2. Create a virtual environment and activate it:
