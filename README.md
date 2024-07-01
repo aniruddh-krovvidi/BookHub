@@ -1,7 +1,9 @@
 
 # Bookstore Project
 
-This is a Flask-based RESTful API for managing a bookstore. The application supports user registration, login, and book management operations such as adding, viewing, and deleting books. It uses JWT for authentication, SQLAlchemy for database operations, and Flask-Swagger for API documentation.
+This is a Flask-based RESTful API for managing a bookstore. The application supports user registration, login, and book management operations such as adding, viewing, and deleting books. 
+
+It uses JWT for authentication, SQLAlchemy for database operations, and Flask-Swagger for API documentation.
 
 ## Features
 
