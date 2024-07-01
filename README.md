@@ -1,5 +1,5 @@
 
-# Bookstore Project
+# BookHub
 
 This is a Flask-based RESTful API for managing a bookstore. The application supports user registration, login, and book management operations such as adding, viewing, and deleting books. 
 
