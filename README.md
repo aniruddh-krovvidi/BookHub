@@ -19,7 +19,7 @@ It uses JWT for authentication, SQLAlchemy for database operations, and Flask-Sw
 - SQLAlchemy
 - JWT
 - SQLite (for local development)
-- Swagger (Flasgger)
+- Swagger (API Documentation)
 
 ## Installation
 
